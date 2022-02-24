@@ -1,4 +1,5 @@
-## 📰 An article about Curve Finance and how $CRV tokenomics created value. 
+# Curve Article
+### 📰 An article about Curve Finance and how $CRV tokenomics created value. 
 
 👨‍💻 Part of the Codeless Conduct Hackathon - Open Track Tokenomics bounty
 
