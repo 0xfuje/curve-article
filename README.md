@@ -3,4 +3,7 @@
 
 👨‍💻 Part of the Codeless Conduct Hackathon - Open Track Tokenomics bounty
 
-🚧 Work in progress! Article will be posted on medium before the submission deadline
+🏁 Work finished. Article published on Medium
+
+🔗 https://web3wolf.medium.com/curve-finance-and-vecrv-8490d51537c5
+
