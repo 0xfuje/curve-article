@@ -3,7 +3,7 @@
 
 👨‍💻 Part of the Codeless Conduct Hackathon - Open Track Tokenomics bounty
 
-🏁 Work finished. Article published on Medium
+🏁 Work finished. Article published on Medium Coinmonks publication
 
-🔗 https://web3wolf.medium.com/curve-finance-and-vecrv-8490d51537c5
+🔗 https://medium.com/coinmonks/curve-finance-and-vecrv-8490d51537c5
 
